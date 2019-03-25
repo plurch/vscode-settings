@@ -1,0 +1,5 @@
+# Ignore everything...
+*
+# ... except the settings config file
+!.gitignore
+!settings.json

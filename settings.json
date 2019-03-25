@@ -1,0 +1,21 @@
+{
+    "editor.minimap.enabled": false,
+    "editor.fontSize": 15,
+    "workbench.editor.enablePreviewFromQuickOpen": false,
+    "workbench.editor.enablePreview": false,
+    "workbench.colorCustomizations": {
+        "statusBar.background" : "#1A1A1A",
+        "statusBar.noFolderBackground" : "#212121",
+        "statusBar.debuggingBackground": "#263238",
+        "activityBarBadge.background": "#212121"
+    },
+    "workbench.statusBar.feedback.visible": false,
+    "window.zoomLevel": 0,
+    "workbench.colorTheme": "Visual Studio Dark",
+    "breadcrumbs.enabled": true,
+    "editor.renderIndentGuides": false,
+    "editor.highlightActiveIndentGuide": false,
+    "editor.tabSize": 2,
+    "files.autoSave": "onWindowChange",
+    "editor.selectionHighlight": false
+}
