@@ -17,5 +17,12 @@
     "editor.highlightActiveIndentGuide": false,
     "editor.tabSize": 2,
     "files.autoSave": "onWindowChange",
-    "editor.selectionHighlight": false
+    "editor.selectionHighlight": false,
+    "scm.diffDecorations": "none",
+    "gitlens.hovers.currentLine.enabled": false,
+    "gitlens.hovers.currentLine.over": "line",
+    "gitlens.currentLine.enabled": false,
+    "gitlens.codeLens.enabled": false,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue"
 }
