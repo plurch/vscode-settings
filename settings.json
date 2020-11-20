@@ -1,4 +1,17 @@
 {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "[javascript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode",
+      "editor.formatOnSave": false
+    },
+    "[typescript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode",
+      "editor.formatOnSave": false
+    },
+    "[html]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode",
+      "editor.formatOnSave": false
+    },
     "editor.minimap.enabled": false,
     "editor.fontSize": 15,
     "workbench.editor.enablePreviewFromQuickOpen": false,
@@ -21,8 +34,12 @@
     "scm.diffDecorations": "none",
     "gitlens.hovers.currentLine.enabled": false,
     "gitlens.hovers.currentLine.over": "line",
-    "gitlens.currentLine.enabled": false,
     "gitlens.codeLens.enabled": false,
     "editor.suggestSelection": "first",
-    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue"
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "workbench.startupEditor": "newUntitledFile",
+    "gitlens.currentLine.enabled": false,
+    "workbench.statusBar.visible": false,
+    "extensions.ignoreRecommendations": true
 }
